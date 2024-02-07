@@ -3135,7 +3135,7 @@ end
 
 -- Fake Local Scripts:
 
-local function TCIWDBZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.ImageLabel.LocalScript
+local function MAPCGL_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.ImageLabel.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_ImageLabel"]
@@ -3158,7 +3158,7 @@ local function TCIWDBZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.H
 		TweenService:Create(script.Parent, Info, {ImageColor3 = Color3.fromRGB(103, 187, 249)}):Play()
 	end)
 end
-local function XQLQPGP_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.TextLabel.LocalScript
+local function JQIOZDR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.TextLabel.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextLabel"]
@@ -3181,7 +3181,7 @@ local function XQLQPGP_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.H
 		TweenService:Create(script.Parent, Info, {TextColor3 = Color3.fromRGB(230,230,230)}):Play()
 	end)
 end
-local function SKPAE_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.ImageButton.LocalScript
+local function ZFXK_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Header.ImageButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_ImageButton"]
@@ -3207,7 +3207,7 @@ local function SKPAE_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Hea
 		script.Parent.Parent.Parent.Parent.Parent.SOLARHUB:Destroy()
 	end)
 end
-local function TRREYSQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
+local function YABSH_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame2"]
@@ -3235,7 +3235,7 @@ local function TRREYSQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function VQNPOMU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function WZOCT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton"]
@@ -3281,7 +3281,7 @@ local function VQNPOMU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)() 
 	end)
 end
-local function OGPL_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function SEPFGY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton1"]
@@ -3324,7 +3324,7 @@ local function OGPL_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 		end)() 
 	end)
 end
-local function NLKWYOY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function JHLXZHG_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton2"]
@@ -3367,7 +3367,7 @@ local function NLKWYOY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)() 
 	end)
 end
-local function LKMDM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function FSZW_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton3"]
@@ -3402,7 +3402,7 @@ local function LKMDM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		end)() 
 	end)
 end
-local function WJFLI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function QLEN_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton4"]
@@ -3423,7 +3423,7 @@ local function WJFLI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		end)()
 	end)
 end
-local function SCNJY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
+local function RUVBQSF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame7"]
@@ -3451,7 +3451,7 @@ local function SCNJY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function KJYGLBB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function YEQSZLV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton5"]
@@ -3480,7 +3480,7 @@ local function KJYGLBB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)() 
 	end)
 end
-local function VKDGRRD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function HVCZQAE_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton6"]
@@ -3503,7 +3503,7 @@ local function VKDGRRD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)()
 	end)
 end
-local function JVRJQO_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function PGBFXJO_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton7"]
@@ -3529,7 +3529,7 @@ local function JVRJQO_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		end)()
 	end)
 end
-local function XRQUQEM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function IUSPICU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton8"]
@@ -3558,7 +3558,7 @@ local function XRQUQEM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)()
 	end)
 end
-local function QZMUK_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
+local function RMITHG_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton9"]
@@ -3587,7 +3587,7 @@ local function QZMUK_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		end)()
 	end)
 end
-local function JWMSF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
+local function BPSVVJ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MainPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame9"]
@@ -3615,7 +3615,7 @@ local function JWMSF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function ZYWOD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.Frame.LocalScript
+local function WELJLT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame10"]
@@ -3643,7 +3643,7 @@ local function ZYWOD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function UDXGU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
+local function ZIPZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton10"]
@@ -3676,7 +3676,7 @@ local function UDXGU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		end)() 
 	end)
 end
-local function ZEAY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
+local function GQHDYRJ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton11"]
@@ -3707,7 +3707,7 @@ local function ZEAY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 		end)() 
 	end)
 end
-local function FIFNZJA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.Frame.LocalScript
+local function FBOPOR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame13"]
@@ -3735,7 +3735,7 @@ local function FIFNZJA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function OUZAZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
+local function NFOPIU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton12"]
@@ -3799,7 +3799,7 @@ local function OUZAZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 	
 	
 end
-local function IJGBPWM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
+local function PKUMPE_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton13"]
@@ -3915,7 +3915,7 @@ local function IJGBPWM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)() 
 	end)
 end
-local function AXTILQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
+local function DUGTJ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CombatPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton14"]
@@ -4189,7 +4189,7 @@ local function AXTILQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		end)()
 	end)
 end
-local function DEPOLLA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
+local function YXQNBIM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame16"]
@@ -4217,7 +4217,7 @@ local function DEPOLLA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function AFDT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.TextButton.LocalScript
+local function UFVD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton15"]
@@ -4290,10 +4290,13 @@ local function AFDT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 			local val = skittles:WaitForChild("USES")
 			val.Value = 9999999999
 			repeat task.wait() until val.Value == 9999999999
+			skittles.Parent = Backpack
+			repeat task.wait() until skittles.Parent == Backpack
 			Safe:FireServer("Movetosafe","SkittlesPack",9999999999)
 			Safe:FireServer("Takeout","SkittlesPack",9999999999)
 			repeat task.wait() until Backpack:FindFirstChild("SkittlesPack")
 			local found = false
+			repeat task.wait()
 			for i, v in ipairs(Backpack:GetChildren()) do
 				if found == false then
 					if v:IsA("Tool") and v.Name == "SkittlesPack" then
@@ -4306,10 +4309,11 @@ local function AFDT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 					end
 				end
 			end
+			until found == true
 		end)()
 	end)
 end
-local function MEBYR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
+local function TRGB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame17"]
@@ -4337,7 +4341,7 @@ local function MEBYR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function XNSHQLA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.TextButton.LocalScript
+local function RNXWF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton16"]
@@ -4515,7 +4519,7 @@ local function XNSHQLA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)()
 	end)
 end
-local function KSWCBS_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
+local function VJDNXM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.AdminPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame18"]
@@ -4543,7 +4547,7 @@ local function KSWCBS_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function IMFNVF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
+local function QJNC_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame19"]
@@ -4571,7 +4575,7 @@ local function IMFNVF_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function OEAOBBZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
+local function ZSFMM_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton17"]
@@ -4641,7 +4645,7 @@ local function OEAOBBZ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		end)()
 	end)
 end
-local function XOOG_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
+local function RXOB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton18"]
@@ -4664,7 +4668,7 @@ local function XOOG_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 		end)()
 	end)
 end
-local function EUPMTT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
+local function WXPR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame20"]
@@ -4692,7 +4696,7 @@ local function EUPMTT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function IOHZWI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
+local function UCBZDW_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton19"]
@@ -4818,7 +4822,7 @@ local function IOHZWI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		end)()
 	end)
 end
-local function DTAV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
+local function IFTMSNC_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton20"]
@@ -4839,7 +4843,7 @@ local function DTAV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 		end)()
 	end)
 end
-local function DKIXD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
+local function JSKYHUO_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.MiscPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame21"]
@@ -4867,7 +4871,7 @@ local function DKIXD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function JSDXAY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.Frame.LocalScript
+local function YCAG_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame22"]
@@ -4895,7 +4899,7 @@ local function JSDXAY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function QBCV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.TextButton.LocalScript
+local function JMHNT_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.TextButton.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextButton21"]
@@ -4920,7 +4924,7 @@ local function QBCV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Feat
 		end)()
 	end)
 end
-local function JYDFVD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.Frame.LocalScript
+local function KWLDWUV_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.UIPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame23"]
@@ -4948,7 +4952,7 @@ local function JYDFVD_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fe
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function JKMOAFR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CreditsPage.ScrollingFrame.Frame.LocalScript
+local function SUDSH_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CreditsPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame24"]
@@ -4976,7 +4980,7 @@ local function JKMOAFR_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.F
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function ELJIX_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CreditsPage.ScrollingFrame.Frame.LocalScript
+local function PCYKL_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Features.CreditsPage.ScrollingFrame.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame25"]
@@ -5004,7 +5008,7 @@ local function ELJIX_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Fea
 		TweenService:Create(script.Parent.UIStroke, Info, {Color = Color3.fromRGB(98, 163, 209)}):Play()
 	end)
 end
-local function BLZB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Pages.TextLabel.LocalScript
+local function EKBDA_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Pages.TextLabel.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_TextLabel1"]
@@ -5027,7 +5031,7 @@ local function BLZB_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Page
 		TweenService:Create(script.Parent, Info, {TextColor3 = Color3.fromRGB(230,230,230)}):Play()
 	end)
 end
-local function OAQQDRQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Pages.LocalScript
+local function NZNY_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Pages.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Pages"]
@@ -5090,7 +5094,7 @@ local function OAQQDRQ_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.P
 	CreatePage(script.Parent.Holder.MiscButton, script.Parent.Parent.Features.MiscPage)
 	CreatePage(script.Parent.Holder.UIButton, script.Parent.Parent.Features.UIPage)
 end
-local function OHGOI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.LocalScript
+local function XNLBRU_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.LocalScript
     local script = Instance.new("LocalScript")
     script.Name = "LocalScript"
     script.Parent = Converted["_Frame"]
@@ -5140,46 +5144,46 @@ local function OHGOI_fake_script() -- Fake Script: StarterGui.SOLARHUB.Frame.Loc
 	end)
 end
 
-coroutine.wrap(TCIWDBZ_fake_script)()
-coroutine.wrap(XQLQPGP_fake_script)()
-coroutine.wrap(SKPAE_fake_script)()
-coroutine.wrap(TRREYSQ_fake_script)()
-coroutine.wrap(VQNPOMU_fake_script)()
-coroutine.wrap(OGPL_fake_script)()
-coroutine.wrap(NLKWYOY_fake_script)()
-coroutine.wrap(LKMDM_fake_script)()
-coroutine.wrap(WJFLI_fake_script)()
-coroutine.wrap(SCNJY_fake_script)()
-coroutine.wrap(KJYGLBB_fake_script)()
-coroutine.wrap(VKDGRRD_fake_script)()
-coroutine.wrap(JVRJQO_fake_script)()
-coroutine.wrap(XRQUQEM_fake_script)()
-coroutine.wrap(QZMUK_fake_script)()
-coroutine.wrap(JWMSF_fake_script)()
-coroutine.wrap(ZYWOD_fake_script)()
-coroutine.wrap(UDXGU_fake_script)()
-coroutine.wrap(ZEAY_fake_script)()
-coroutine.wrap(FIFNZJA_fake_script)()
-coroutine.wrap(OUZAZ_fake_script)()
-coroutine.wrap(IJGBPWM_fake_script)()
-coroutine.wrap(AXTILQ_fake_script)()
-coroutine.wrap(DEPOLLA_fake_script)()
-coroutine.wrap(AFDT_fake_script)()
-coroutine.wrap(MEBYR_fake_script)()
-coroutine.wrap(XNSHQLA_fake_script)()
-coroutine.wrap(KSWCBS_fake_script)()
-coroutine.wrap(IMFNVF_fake_script)()
-coroutine.wrap(OEAOBBZ_fake_script)()
-coroutine.wrap(XOOG_fake_script)()
-coroutine.wrap(EUPMTT_fake_script)()
-coroutine.wrap(IOHZWI_fake_script)()
-coroutine.wrap(DTAV_fake_script)()
-coroutine.wrap(DKIXD_fake_script)()
-coroutine.wrap(JSDXAY_fake_script)()
-coroutine.wrap(QBCV_fake_script)()
-coroutine.wrap(JYDFVD_fake_script)()
-coroutine.wrap(JKMOAFR_fake_script)()
-coroutine.wrap(ELJIX_fake_script)()
-coroutine.wrap(BLZB_fake_script)()
-coroutine.wrap(OAQQDRQ_fake_script)()
-coroutine.wrap(OHGOI_fake_script)()-- Please leave these comments in and leave credit, it took me a while to make this
+coroutine.wrap(MAPCGL_fake_script)()
+coroutine.wrap(JQIOZDR_fake_script)()
+coroutine.wrap(ZFXK_fake_script)()
+coroutine.wrap(YABSH_fake_script)()
+coroutine.wrap(WZOCT_fake_script)()
+coroutine.wrap(SEPFGY_fake_script)()
+coroutine.wrap(JHLXZHG_fake_script)()
+coroutine.wrap(FSZW_fake_script)()
+coroutine.wrap(QLEN_fake_script)()
+coroutine.wrap(RUVBQSF_fake_script)()
+coroutine.wrap(YEQSZLV_fake_script)()
+coroutine.wrap(HVCZQAE_fake_script)()
+coroutine.wrap(PGBFXJO_fake_script)()
+coroutine.wrap(IUSPICU_fake_script)()
+coroutine.wrap(RMITHG_fake_script)()
+coroutine.wrap(BPSVVJ_fake_script)()
+coroutine.wrap(WELJLT_fake_script)()
+coroutine.wrap(ZIPZ_fake_script)()
+coroutine.wrap(GQHDYRJ_fake_script)()
+coroutine.wrap(FBOPOR_fake_script)()
+coroutine.wrap(NFOPIU_fake_script)()
+coroutine.wrap(PKUMPE_fake_script)()
+coroutine.wrap(DUGTJ_fake_script)()
+coroutine.wrap(YXQNBIM_fake_script)()
+coroutine.wrap(UFVD_fake_script)()
+coroutine.wrap(TRGB_fake_script)()
+coroutine.wrap(RNXWF_fake_script)()
+coroutine.wrap(VJDNXM_fake_script)()
+coroutine.wrap(QJNC_fake_script)()
+coroutine.wrap(ZSFMM_fake_script)()
+coroutine.wrap(RXOB_fake_script)()
+coroutine.wrap(WXPR_fake_script)()
+coroutine.wrap(UCBZDW_fake_script)()
+coroutine.wrap(IFTMSNC_fake_script)()
+coroutine.wrap(JSKYHUO_fake_script)()
+coroutine.wrap(YCAG_fake_script)()
+coroutine.wrap(JMHNT_fake_script)()
+coroutine.wrap(KWLDWUV_fake_script)()
+coroutine.wrap(SUDSH_fake_script)()
+coroutine.wrap(PCYKL_fake_script)()
+coroutine.wrap(EKBDA_fake_script)()
+coroutine.wrap(NZNY_fake_script)()
+coroutine.wrap(XNLBRU_fake_script)()-- Please leave these comments in and leave credit, it took me a while to make this
